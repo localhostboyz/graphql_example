@@ -1,1 +1,3 @@
-# graphql_example
+# GraphQL Example Project 
+
+For the boyz
