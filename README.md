@@ -1,3 +1,3 @@
 # GraphQL Example Project 
 
-For the boyz
+Multiple Backends with Multiple Languages, Frameworks, and Databases to pick up GraphQL quickly.
